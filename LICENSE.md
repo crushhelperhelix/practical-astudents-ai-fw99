@@ -1,4 +1,4 @@
-# 
+# Premium Practical AI Projects for Students scripts. Com aumento de dados e IA de borda — otimizado para máximo desempenho.
 
 
 
